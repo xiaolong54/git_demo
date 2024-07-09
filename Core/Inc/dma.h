@@ -2,7 +2,7 @@
 /**
   ******************************************************************************
   * @file    dma.h
-  * @brief   This file contains all the function prototypes for
+  * @brief   This file contains all the function prototypes for15
   *          the dma.c file
   ******************************************************************************
   * @attention
